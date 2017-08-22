@@ -1,0 +1,5 @@
+{
+  "about": {
+    "aboutContent": "<div> </div>\n\t<div align=\"center\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-family: &quot;Avenir Light&quot;, Verdana, Geneva, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(131, 131, 131); font-family: Verdana, Arial, sans-serif;\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\"><span style=\"font-size: x-large;\">What's New:</span></div><div style=\"color: rgb(0, 0, 0); font-family: Verdana; font-size: 14px; box-sizing: border-box; margin: 0px; padding: 0px;\"><br style=\"box-sizing: border-box; font-family: &quot;Open Sans&quot;, Helvetica, Arial; font-size: large;\" /><font size=\"4\" style=\"color: rgb(192, 192, 192);\">2017/08/22: Updated Web Application to Latest Mapping Framework</font></div><div style=\"color: rgb(0, 0, 0); font-family: Verdana; font-size: 14px; box-sizing: border-box; margin: 0px; padding: 0px;\"><font size=\"4\" style=\"color: rgb(192, 192, 192);\">Added Elevation Profile Widget</font></div></div></div></div>"
+  }
+}

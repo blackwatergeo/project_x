@@ -1,0 +1,1743 @@
+{
+  "layerInfos": [
+    {
+      "name": "Sketch Points",
+      "id": "project_x_editing_7603",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_editing/FeatureServer/0",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "LABEL",
+            "alias": "LABEL",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "DESCRIPTION",
+            "alias": "DESCRIPTION",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "COMMENTS",
+            "alias": "COMMENTS",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "TYPE",
+            "alias": "TYPE",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "created_user",
+            "alias": "created_user",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "created_date",
+            "alias": "created_date",
+            "show": false,
+            "format": {
+              "dateFormat": "longMonthDayYear"
+            }
+          },
+          {
+            "name": "last_edited_user",
+            "alias": "last_edited_user",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "last_edited_date",
+            "alias": "last_edited_date",
+            "show": false,
+            "format": {
+              "dateFormat": "longMonthDayYear"
+            }
+          }
+        ]
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Sketch Lines",
+      "id": "project_x_editing_1541",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_editing/FeatureServer/1",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "LABEL",
+            "alias": "LABEL",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "DESCRIPTION",
+            "alias": "DESCRIPTION",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "COMMENTS",
+            "alias": "COMMENTS",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "TYPE",
+            "alias": "TYPE",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "created_user",
+            "alias": "created_user",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "created_date",
+            "alias": "created_date",
+            "show": false,
+            "format": {
+              "dateFormat": "longMonthDayYear"
+            }
+          },
+          {
+            "name": "last_edited_user",
+            "alias": "last_edited_user",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "last_edited_date",
+            "alias": "last_edited_date",
+            "show": false,
+            "format": {
+              "dateFormat": "longMonthDayYear"
+            }
+          }
+        ]
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Sketch Polygons",
+      "id": "project_x_editing_7744",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_editing/FeatureServer/2",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "LABEL",
+            "alias": "LABEL",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "DESCRIPTION",
+            "alias": "DESCRIPTION",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "COMMENTS",
+            "alias": "COMMENTS",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "TYPE",
+            "alias": "TYPE",
+            "show": true,
+            "format": null
+          },
+          {
+            "name": "created_user",
+            "alias": "created_user",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "created_date",
+            "alias": "created_date",
+            "show": false,
+            "format": {
+              "dateFormat": "longMonthDayYear"
+            }
+          },
+          {
+            "name": "last_edited_user",
+            "alias": "last_edited_user",
+            "show": false,
+            "format": null
+          },
+          {
+            "name": "last_edited_date",
+            "alias": "last_edited_date",
+            "show": false,
+            "format": {
+              "dateFormat": "longMonthDayYear"
+            }
+          }
+        ]
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Control Point",
+      "id": "project_x_project_7403_0",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/0"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Milepost (50)",
+      "id": "project_x_project_7403_3",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/3"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Mileposts (10)",
+      "id": "project_x_project_7403_4",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/4"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Mileposts (5)",
+      "id": "project_x_project_7403_5",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/5"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Mileposts (1)",
+      "id": "project_x_project_7403_6",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/6"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Preferred Route",
+      "id": "project_x_project_7403_7",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/7"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Pipeline Route Segments",
+      "id": "project_x_project_7403_8",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/8"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Compressor Station",
+      "id": "project_x_project_7403_9",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/9"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Study Area (Outline)",
+      "id": "project_x_project_7403_11",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/11"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Study Area",
+      "id": "project_x_project_7403_12",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_project/MapServer/12"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Active Air Monitoring Site (Texas)",
+      "id": "project_x_reference_9229_1",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/1"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "City Boundary (Texas)",
+      "id": "project_x_reference_9229_3",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/3"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Places (Texas)",
+      "id": "project_x_reference_9229_5",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/5"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Places (Louisiana)",
+      "id": "project_x_reference_9229_6",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/6"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Urban Area",
+      "id": "project_x_reference_9229_7",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/7"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "American Indian Area",
+      "id": "project_x_reference_9229_8",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/8"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Non Attainment Area (Texas)",
+      "id": "project_x_reference_9229_9",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/9"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Military Boundaries (Texas)",
+      "id": "project_x_reference_9229_11",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/11"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Military Boundaries - TIGER 2016",
+      "id": "project_x_reference_9229_12",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/12"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Gazetteer (Texas)",
+      "id": "project_x_reference_9229_14",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/14"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NRCS Easement (Texas)",
+      "id": "project_x_reference_9229_17",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/17"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NRCS Easement (Louisiana)",
+      "id": "project_x_reference_9229_18",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/18"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NCED Easement - Southeast",
+      "id": "project_x_reference_9229_20",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/20"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NCED Easement - Central",
+      "id": "project_x_reference_9229_21",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/21"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "National Park & Preserve",
+      "id": "project_x_reference_9229_22",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/22"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "National Grassland",
+      "id": "project_x_reference_9229_23",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/23"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "FWS Approved",
+      "id": "project_x_reference_9229_25",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/25"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "FWS Interest",
+      "id": "project_x_reference_9229_26",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/26"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "FWS Special Designation",
+      "id": "project_x_reference_9229_27",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/27"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Trails - Wildlife Management Area (Louisiana)",
+      "id": "project_x_reference_9229_28",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/28"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "National Forest System Trails - Polyline",
+      "id": "project_x_reference_9229_29",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/29"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Wildlife Management Area (Louisiana)",
+      "id": "project_x_reference_9229_31",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/31"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Wildlife Management Area (Texas)",
+      "id": "project_x_reference_9229_32",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/32"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "USFS Wilderness Area",
+      "id": "project_x_reference_9229_33",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/33"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Protected Areas Database of the United States - Easement (Texas)",
+      "id": "project_x_reference_9229_35",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/35"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Protected Areas Database of the United States - Easement (Louisiana)",
+      "id": "project_x_reference_9229_36",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/36"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Protected Areas Database of the United States - Marine (Texas)",
+      "id": "project_x_reference_9229_38",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/38"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Protected Areas Database of the United States - Marine (Louisiana)",
+      "id": "project_x_reference_9229_39",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/39"
+      },
+      "show": true,
+      "showAttachments": false
+    },
+    {
+      "name": "Wastewater Outfall (Texas)",
+      "id": "project_x_reference_9229_40",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/40"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Coastal Zone Boundary (Texas)",
+      "id": "project_x_reference_9229_42",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/42"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Coastal Zone Boundary (Louisiana)",
+      "id": "project_x_reference_9229_43",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/43"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "WMS Refuge (Louisiana)",
+      "id": "project_x_reference_9229_44",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/44"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Land Sale Minerals (Louisiana)",
+      "id": "project_x_reference_9229_45",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/45"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Ecoregion - Level IV",
+      "id": "project_x_reference_9229_47",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/47"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Ecoregion - Level III",
+      "id": "project_x_reference_9229_48",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/48"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "State Lands - Owned/Leased (Louisiana)",
+      "id": "project_x_reference_9229_49",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/49"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "State Park (Texas)",
+      "id": "project_x_reference_9229_50",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/50"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "State Land and Building System (Louisiana)",
+      "id": "project_x_reference_9229_51",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/51"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Superfund Sites (Texas) - Point",
+      "id": "project_x_reference_9229_53",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/53"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Superfund Sites (Texas) - Polygon",
+      "id": "project_x_reference_9229_54",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/54"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Municipal Setting Designations (Texas) - Point",
+      "id": "project_x_reference_9229_56",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/56"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Municipal Setting Designations (Texas) - Polygon",
+      "id": "project_x_reference_9229_57",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/57"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Assessment Units - 2014 (Texas) - Polyline",
+      "id": "project_x_reference_9229_59",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/59"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Assessment Units - 2014 (Texas) - Polygon",
+      "id": "project_x_reference_9229_60",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/60"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "T & E by Parish - 2001 (Louisiana)",
+      "id": "project_x_reference_9229_62",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/62"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "T & E - Critical Habitat - Polyline",
+      "id": "project_x_reference_9229_64",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/64"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "T & E - Critical Habitat - Polygon",
+      "id": "project_x_reference_9229_65",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/65"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Natural Heritage Program (Louisiana)",
+      "id": "project_x_reference_9229_67",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/67"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Nests (Louisiana)",
+      "id": "project_x_reference_9229_68",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/68"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Seabirds (Louisiana)",
+      "id": "project_x_reference_9229_69",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/69"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Seabirds - 1997 (Louisiana)",
+      "id": "project_x_reference_9229_70",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/70"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Waterfowl (Louisiana)",
+      "id": "project_x_reference_9229_71",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/71"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Mammal (Louisiana)",
+      "id": "project_x_reference_9229_72",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/72"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Alligator (Louisiana)",
+      "id": "project_x_reference_9229_73",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/73"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Freshwater Fish (Louisiana)",
+      "id": "project_x_reference_9229_74",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/74"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Crawfish (Louisiana)",
+      "id": "project_x_reference_9229_75",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/75"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Breeding Bear - Pop. 2005 (Louisiana)",
+      "id": "project_x_reference_9229_76",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/76"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Bear (Louisiana)",
+      "id": "project_x_reference_9229_77",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/77"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Fault (Texas)",
+      "id": "project_x_reference_9229_80",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/80"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Fault (Louisiana)",
+      "id": "project_x_reference_9229_81",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/81"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Geologic Map (Texas)",
+      "id": "project_x_reference_9229_83",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/83"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Geologic Map (Louisiana)",
+      "id": "project_x_reference_9229_84",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/84"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Carbonate karst",
+      "id": "project_x_reference_9229_86",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/86"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Evaporite karst",
+      "id": "project_x_reference_9229_87",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/87"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Piping pseudokarst",
+      "id": "project_x_reference_9229_88",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/88"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Sandstone karst",
+      "id": "project_x_reference_9229_89",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/89"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Volcanic pseudokarst",
+      "id": "project_x_reference_9229_90",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/90"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Evaporite basins",
+      "id": "project_x_reference_9229_91",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/91"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Gypsum extent",
+      "id": "project_x_reference_9229_92",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/92"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Facility Registry Service",
+      "id": "project_x_reference_9229_94",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/94"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "EPA Brownfields - Point",
+      "id": "project_x_reference_9229_95",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/95"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Petroleum Storage Tank (Texas) - Point",
+      "id": "project_x_reference_9229_96",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/96"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Underground Storage Tank Facilities (UST) - Point",
+      "id": "project_x_reference_9229_97",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/97"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Leasking Underground Storage Tank (LUST) - Point",
+      "id": "project_x_reference_9229_98",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/98"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Commercially Navigable Waterways",
+      "id": "project_x_reference_9229_100",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/100"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Other Populated Areas",
+      "id": "project_x_reference_9229_101",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/101"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Highly Populated Areas",
+      "id": "project_x_reference_9229_102",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/102"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Drinking Water (Louisiana)",
+      "id": "project_x_reference_9229_104",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/104"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Drinking Water (Texas)",
+      "id": "project_x_reference_9229_105",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/105"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Ecological Unusually Sensitive Areas (Louisiana)",
+      "id": "project_x_reference_9229_107",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/107"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Ecological Unusually Sensitive Areas (Texas)",
+      "id": "project_x_reference_9229_108",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/108"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Wells (Texas)",
+      "id": "project_x_reference_9229_111",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/111"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Surface Intakes (Texas)",
+      "id": "project_x_reference_9229_112",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/112"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Capture Zone 1/2 Mile Fixed (Texas)",
+      "id": "project_x_reference_9229_113",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/113"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Capture Zone 2 Year Time of Travel (Texas)",
+      "id": "project_x_reference_9229_114",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/114"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Capture Zone 5 Year Time of Travel (Texas)",
+      "id": "project_x_reference_9229_115",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/115"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Capture Zone 20 Year Time of Travel (Texas)",
+      "id": "project_x_reference_9229_116",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/116"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Capture Zone 50 Year Time of Travel (Texas)",
+      "id": "project_x_reference_9229_117",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/117"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Public Water System Capture Zone 100 Year Time of Travel (Texas)",
+      "id": "project_x_reference_9229_118",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/118"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Groundwater Wells (Texas)",
+      "id": "project_x_reference_9229_120",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/120"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Groundwater Wells (Louisiana)",
+      "id": "project_x_reference_9229_121",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/121"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Wild Scenic Rivers - Polyline",
+      "id": "project_x_reference_9229_123",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/123"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Wild Scenic Rivers - Polygon",
+      "id": "project_x_reference_9229_124",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/124"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Scenic Rivers (Louisiana)",
+      "id": "project_x_reference_9229_125",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/125"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Scenic Rivers (Louisiana)",
+      "id": "project_x_reference_9229_126",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/126"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NHD FLowline (Louisiana)",
+      "id": "project_x_reference_9229_128",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/128"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NHD FLowline (Texas)",
+      "id": "project_x_reference_9229_129",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/129"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NHD Waterbody (Louisiana)",
+      "id": "project_x_reference_9229_130",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/130"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NHD Waterbody (Texas)",
+      "id": "project_x_reference_9229_131",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/131"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NHD Area (Louisiana)",
+      "id": "project_x_reference_9229_132",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/132"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NHD Area (Texas)",
+      "id": "project_x_reference_9229_133",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/133"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "FEMA Base Flood Elevations (Texas)",
+      "id": "project_x_reference_9229_135",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/135"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "FEMA Flood Hazard (Texas)",
+      "id": "project_x_reference_9229_136",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/136"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "FEMA FIRM Panel (Texas)",
+      "id": "project_x_reference_9229_137",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/137"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "SLO Water Bottoms (Louisiana)",
+      "id": "project_x_reference_9229_138",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/138"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NWI Wetlands (Louisiana)",
+      "id": "project_x_reference_9229_140",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/140"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NWI Wetlands (Texas)",
+      "id": "project_x_reference_9229_141",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/141"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "NWI Historic Wetlands (Texas)",
+      "id": "project_x_reference_9229_142",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/142"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Marsh Fresh (Louisiana)",
+      "id": "project_x_reference_9229_144",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/144"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Marsh Brackish (Louisiana)",
+      "id": "project_x_reference_9229_145",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/145"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Edwards Aquifer Regulatory",
+      "id": "project_x_reference_9229_147",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/147"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Aquifers - Minor (Texas)",
+      "id": "project_x_reference_9229_148",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/148"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Aquifers - Major (Texas)",
+      "id": "project_x_reference_9229_149",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/149"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Dam (Louisiana)",
+      "id": "project_x_reference_9229_151",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/151"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Levee (Louisiana)",
+      "id": "project_x_reference_9229_152",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/152"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Wind Turbines",
+      "id": "project_x_reference_9229_153",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/153"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "PennWell Substations - Point",
+      "id": "project_x_reference_9229_155",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/155"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "PennWell Power Plants - Point",
+      "id": "project_x_reference_9229_156",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/156"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "PennWell Power Lines - Polyline",
+      "id": "project_x_reference_9229_157",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/157"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Sewer CCN Facility Lines (Texas)",
+      "id": "project_x_reference_9229_159",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/159"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Water CCN Facility Lines (Texas)",
+      "id": "project_x_reference_9229_160",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/160"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Sewer CCN Service Areas (Texas)",
+      "id": "project_x_reference_9229_161",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/161"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Water CCN Service Areas (Texas)",
+      "id": "project_x_reference_9229_162",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/162"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Townships (Louisiana)",
+      "id": "project_x_reference_9229_165",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/165"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Sections (Louisiana)",
+      "id": "project_x_reference_9229_166",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/166"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Boundaries of the Original Texas Land Grants",
+      "id": "project_x_reference_9229_168",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/168"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Hard Minerals (Texas)",
+      "id": "project_x_reference_9229_170",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/170"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Upland Leases (texas)",
+      "id": "project_x_reference_9229_171",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/171"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Active Units (Texas)",
+      "id": "project_x_reference_9229_172",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/172"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Re-Leases (Louisiana)",
+      "id": "project_x_reference_9229_173",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/173"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Active Leases (Texas)",
+      "id": "project_x_reference_9229_175",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/175"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Active Leases (Louisiana)",
+      "id": "project_x_reference_9229_176",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/176"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "PennWell Pipeline Facilities - Point",
+      "id": "project_x_reference_9229_178",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/178"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "PennWell Pipelines - Polyline",
+      "id": "project_x_reference_9229_179",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/179"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Railroad Commission Pipelines (Texas)",
+      "id": "project_x_reference_9229_180",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/180"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "DNR Oil and Gas Wells (Louisiana)",
+      "id": "project_x_reference_9229_181",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/181"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Cemetery",
+      "id": "project_x_reference_9229_183",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/183"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "TIGER 2016 Landmarks (Louisiana)",
+      "id": "project_x_reference_9229_185",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/185"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "TIGER 2016 Landmarks (Texas)",
+      "id": "project_x_reference_9229_186",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/186"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Structures - Point",
+      "id": "project_x_reference_9229_188",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/188"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Structures - Polygon",
+      "id": "project_x_reference_9229_189",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/189"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Districts - Point",
+      "id": "project_x_reference_9229_191",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/191"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Districts - Polygon",
+      "id": "project_x_reference_9229_192",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/192"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Sites - Point",
+      "id": "project_x_reference_9229_194",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/194"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Sites - Polygon",
+      "id": "project_x_reference_9229_195",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/195"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Buildings - Point",
+      "id": "project_x_reference_9229_197",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/197"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Buildings - Polygon",
+      "id": "project_x_reference_9229_198",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/198"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Objects - Point",
+      "id": "project_x_reference_9229_200",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/200"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Historic Objects - Polygon",
+      "id": "project_x_reference_9229_201",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/201"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Airports (Texas)",
+      "id": "project_x_reference_9229_203",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/203"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Roadways (Texas)",
+      "id": "project_x_reference_9229_205",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/205"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "National Highway System (Texas)",
+      "id": "project_x_reference_9229_206",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/206"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Streets 100k (Louisiana)",
+      "id": "project_x_reference_9229_207",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/207"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Railroads (Texas)",
+      "id": "project_x_reference_9229_208",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/208"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Primary and Secondary Roads (Louisiana)",
+      "id": "project_x_reference_9229_210",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/210"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Primary and Secondary Roads (Texas)",
+      "id": "project_x_reference_9229_211",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/211"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Railroads - Polyline",
+      "id": "project_x_reference_9229_212",
+      "layer": {
+        "url": "https://gis.exp.com/exp/rest/services/project_x/project_x_reference/MapServer/212"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Louisiana NAIP 2015",
+      "id": "Louisiana_2015_1m_7263",
+      "layer": {
+        "url": "https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/Louisiana_2015_1m/ImageServer"
+      },
+      "show": false,
+      "showAttachments": false
+    },
+    {
+      "name": "Texas NAIP 2016",
+      "id": "Texas_2016_1m_9261",
+      "layer": {
+        "url": "https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/Texas_2016_1m/ImageServer"
+      },
+      "show": false,
+      "showAttachments": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true
+}

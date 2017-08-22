@@ -1,0 +1,712 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "project_x_editing_7603": {
+      "display": true
+    },
+    "project_x_editing_1541": {
+      "display": true
+    },
+    "project_x_editing_7744": {
+      "display": true
+    },
+    "project_x_project_7403": {
+      "display": true
+    },
+    "project_x_project_7403_0": {
+      "display": true
+    },
+    "project_x_project_7403_1": {
+      "display": true
+    },
+    "project_x_project_7403_2": {
+      "display": true
+    },
+    "project_x_project_7403_3": {
+      "display": true
+    },
+    "project_x_project_7403_4": {
+      "display": true
+    },
+    "project_x_project_7403_5": {
+      "display": true
+    },
+    "project_x_project_7403_6": {
+      "display": true
+    },
+    "project_x_project_7403_7": {
+      "display": true
+    },
+    "project_x_project_7403_8": {
+      "display": true
+    },
+    "project_x_project_7403_9": {
+      "display": true
+    },
+    "project_x_project_7403_10": {
+      "display": true
+    },
+    "project_x_project_7403_11": {
+      "display": true
+    },
+    "project_x_project_7403_12": {
+      "display": true
+    },
+    "project_x_reference_9229": {
+      "display": true
+    },
+    "project_x_reference_9229_0": {
+      "display": true
+    },
+    "project_x_reference_9229_1": {
+      "display": true
+    },
+    "project_x_reference_9229_2": {
+      "display": true
+    },
+    "project_x_reference_9229_3": {
+      "display": true
+    },
+    "project_x_reference_9229_4": {
+      "display": true
+    },
+    "project_x_reference_9229_5": {
+      "display": true
+    },
+    "project_x_reference_9229_6": {
+      "display": true
+    },
+    "project_x_reference_9229_7": {
+      "display": true
+    },
+    "project_x_reference_9229_8": {
+      "display": true
+    },
+    "project_x_reference_9229_9": {
+      "display": true
+    },
+    "project_x_reference_9229_10": {
+      "display": true
+    },
+    "project_x_reference_9229_11": {
+      "display": true
+    },
+    "project_x_reference_9229_12": {
+      "display": true
+    },
+    "project_x_reference_9229_13": {
+      "display": true
+    },
+    "project_x_reference_9229_14": {
+      "display": true
+    },
+    "project_x_reference_9229_15": {
+      "display": true
+    },
+    "project_x_reference_9229_16": {
+      "display": true
+    },
+    "project_x_reference_9229_17": {
+      "display": true
+    },
+    "project_x_reference_9229_18": {
+      "display": true
+    },
+    "project_x_reference_9229_19": {
+      "display": true
+    },
+    "project_x_reference_9229_20": {
+      "display": true
+    },
+    "project_x_reference_9229_21": {
+      "display": true
+    },
+    "project_x_reference_9229_22": {
+      "display": true
+    },
+    "project_x_reference_9229_23": {
+      "display": true
+    },
+    "project_x_reference_9229_24": {
+      "display": true
+    },
+    "project_x_reference_9229_25": {
+      "display": true
+    },
+    "project_x_reference_9229_26": {
+      "display": true
+    },
+    "project_x_reference_9229_27": {
+      "display": true
+    },
+    "project_x_reference_9229_28": {
+      "display": true
+    },
+    "project_x_reference_9229_29": {
+      "display": true
+    },
+    "project_x_reference_9229_30": {
+      "display": true
+    },
+    "project_x_reference_9229_31": {
+      "display": true
+    },
+    "project_x_reference_9229_32": {
+      "display": true
+    },
+    "project_x_reference_9229_33": {
+      "display": true
+    },
+    "project_x_reference_9229_34": {
+      "display": true
+    },
+    "project_x_reference_9229_35": {
+      "display": true
+    },
+    "project_x_reference_9229_36": {
+      "display": true
+    },
+    "project_x_reference_9229_37": {
+      "display": true
+    },
+    "project_x_reference_9229_38": {
+      "display": true
+    },
+    "project_x_reference_9229_39": {
+      "display": true
+    },
+    "project_x_reference_9229_40": {
+      "display": true
+    },
+    "project_x_reference_9229_41": {
+      "display": true
+    },
+    "project_x_reference_9229_42": {
+      "display": true
+    },
+    "project_x_reference_9229_43": {
+      "display": true
+    },
+    "project_x_reference_9229_44": {
+      "display": true
+    },
+    "project_x_reference_9229_45": {
+      "display": true
+    },
+    "project_x_reference_9229_46": {
+      "display": true
+    },
+    "project_x_reference_9229_47": {
+      "display": true
+    },
+    "project_x_reference_9229_48": {
+      "display": true
+    },
+    "project_x_reference_9229_49": {
+      "display": true
+    },
+    "project_x_reference_9229_50": {
+      "display": true
+    },
+    "project_x_reference_9229_51": {
+      "display": true
+    },
+    "project_x_reference_9229_52": {
+      "display": true
+    },
+    "project_x_reference_9229_53": {
+      "display": true
+    },
+    "project_x_reference_9229_54": {
+      "display": true
+    },
+    "project_x_reference_9229_55": {
+      "display": true
+    },
+    "project_x_reference_9229_56": {
+      "display": true
+    },
+    "project_x_reference_9229_57": {
+      "display": true
+    },
+    "project_x_reference_9229_58": {
+      "display": true
+    },
+    "project_x_reference_9229_59": {
+      "display": true
+    },
+    "project_x_reference_9229_60": {
+      "display": true
+    },
+    "project_x_reference_9229_61": {
+      "display": true
+    },
+    "project_x_reference_9229_62": {
+      "display": true
+    },
+    "project_x_reference_9229_63": {
+      "display": true
+    },
+    "project_x_reference_9229_64": {
+      "display": true
+    },
+    "project_x_reference_9229_65": {
+      "display": true
+    },
+    "project_x_reference_9229_66": {
+      "display": true
+    },
+    "project_x_reference_9229_67": {
+      "display": true
+    },
+    "project_x_reference_9229_68": {
+      "display": true
+    },
+    "project_x_reference_9229_69": {
+      "display": true
+    },
+    "project_x_reference_9229_70": {
+      "display": true
+    },
+    "project_x_reference_9229_71": {
+      "display": true
+    },
+    "project_x_reference_9229_72": {
+      "display": true
+    },
+    "project_x_reference_9229_73": {
+      "display": true
+    },
+    "project_x_reference_9229_74": {
+      "display": true
+    },
+    "project_x_reference_9229_75": {
+      "display": true
+    },
+    "project_x_reference_9229_76": {
+      "display": true
+    },
+    "project_x_reference_9229_77": {
+      "display": true
+    },
+    "project_x_reference_9229_78": {
+      "display": true
+    },
+    "project_x_reference_9229_79": {
+      "display": true
+    },
+    "project_x_reference_9229_80": {
+      "display": true
+    },
+    "project_x_reference_9229_81": {
+      "display": true
+    },
+    "project_x_reference_9229_82": {
+      "display": true
+    },
+    "project_x_reference_9229_83": {
+      "display": true
+    },
+    "project_x_reference_9229_84": {
+      "display": true
+    },
+    "project_x_reference_9229_85": {
+      "display": true
+    },
+    "project_x_reference_9229_86": {
+      "display": true
+    },
+    "project_x_reference_9229_87": {
+      "display": true
+    },
+    "project_x_reference_9229_88": {
+      "display": true
+    },
+    "project_x_reference_9229_89": {
+      "display": true
+    },
+    "project_x_reference_9229_90": {
+      "display": true
+    },
+    "project_x_reference_9229_91": {
+      "display": true
+    },
+    "project_x_reference_9229_92": {
+      "display": true
+    },
+    "project_x_reference_9229_93": {
+      "display": true
+    },
+    "project_x_reference_9229_94": {
+      "display": true
+    },
+    "project_x_reference_9229_95": {
+      "display": true
+    },
+    "project_x_reference_9229_96": {
+      "display": true
+    },
+    "project_x_reference_9229_97": {
+      "display": true
+    },
+    "project_x_reference_9229_98": {
+      "display": true
+    },
+    "project_x_reference_9229_99": {
+      "display": true
+    },
+    "project_x_reference_9229_100": {
+      "display": true
+    },
+    "project_x_reference_9229_101": {
+      "display": true
+    },
+    "project_x_reference_9229_102": {
+      "display": true
+    },
+    "project_x_reference_9229_103": {
+      "display": true
+    },
+    "project_x_reference_9229_104": {
+      "display": true
+    },
+    "project_x_reference_9229_105": {
+      "display": true
+    },
+    "project_x_reference_9229_106": {
+      "display": true
+    },
+    "project_x_reference_9229_107": {
+      "display": true
+    },
+    "project_x_reference_9229_108": {
+      "display": true
+    },
+    "project_x_reference_9229_109": {
+      "display": true
+    },
+    "project_x_reference_9229_110": {
+      "display": true
+    },
+    "project_x_reference_9229_111": {
+      "display": true
+    },
+    "project_x_reference_9229_112": {
+      "display": true
+    },
+    "project_x_reference_9229_113": {
+      "display": true
+    },
+    "project_x_reference_9229_114": {
+      "display": true
+    },
+    "project_x_reference_9229_115": {
+      "display": true
+    },
+    "project_x_reference_9229_116": {
+      "display": true
+    },
+    "project_x_reference_9229_117": {
+      "display": true
+    },
+    "project_x_reference_9229_118": {
+      "display": true
+    },
+    "project_x_reference_9229_119": {
+      "display": true
+    },
+    "project_x_reference_9229_120": {
+      "display": true
+    },
+    "project_x_reference_9229_121": {
+      "display": true
+    },
+    "project_x_reference_9229_122": {
+      "display": true
+    },
+    "project_x_reference_9229_123": {
+      "display": true
+    },
+    "project_x_reference_9229_124": {
+      "display": true
+    },
+    "project_x_reference_9229_125": {
+      "display": true
+    },
+    "project_x_reference_9229_126": {
+      "display": true
+    },
+    "project_x_reference_9229_127": {
+      "display": true
+    },
+    "project_x_reference_9229_128": {
+      "display": true
+    },
+    "project_x_reference_9229_129": {
+      "display": true
+    },
+    "project_x_reference_9229_130": {
+      "display": true
+    },
+    "project_x_reference_9229_131": {
+      "display": true
+    },
+    "project_x_reference_9229_132": {
+      "display": true
+    },
+    "project_x_reference_9229_133": {
+      "display": true
+    },
+    "project_x_reference_9229_134": {
+      "display": true
+    },
+    "project_x_reference_9229_135": {
+      "display": true
+    },
+    "project_x_reference_9229_136": {
+      "display": true
+    },
+    "project_x_reference_9229_137": {
+      "display": true
+    },
+    "project_x_reference_9229_138": {
+      "display": true
+    },
+    "project_x_reference_9229_139": {
+      "display": true
+    },
+    "project_x_reference_9229_140": {
+      "display": true
+    },
+    "project_x_reference_9229_141": {
+      "display": true
+    },
+    "project_x_reference_9229_142": {
+      "display": true
+    },
+    "project_x_reference_9229_143": {
+      "display": true
+    },
+    "project_x_reference_9229_144": {
+      "display": true
+    },
+    "project_x_reference_9229_145": {
+      "display": true
+    },
+    "project_x_reference_9229_146": {
+      "display": true
+    },
+    "project_x_reference_9229_147": {
+      "display": true
+    },
+    "project_x_reference_9229_148": {
+      "display": true
+    },
+    "project_x_reference_9229_149": {
+      "display": true
+    },
+    "project_x_reference_9229_150": {
+      "display": true
+    },
+    "project_x_reference_9229_151": {
+      "display": true
+    },
+    "project_x_reference_9229_152": {
+      "display": true
+    },
+    "project_x_reference_9229_153": {
+      "display": true
+    },
+    "project_x_reference_9229_154": {
+      "display": true
+    },
+    "project_x_reference_9229_155": {
+      "display": true
+    },
+    "project_x_reference_9229_156": {
+      "display": true
+    },
+    "project_x_reference_9229_157": {
+      "display": true
+    },
+    "project_x_reference_9229_158": {
+      "display": true
+    },
+    "project_x_reference_9229_159": {
+      "display": true
+    },
+    "project_x_reference_9229_160": {
+      "display": true
+    },
+    "project_x_reference_9229_161": {
+      "display": true
+    },
+    "project_x_reference_9229_162": {
+      "display": true
+    },
+    "project_x_reference_9229_163": {
+      "display": true
+    },
+    "project_x_reference_9229_164": {
+      "display": true
+    },
+    "project_x_reference_9229_165": {
+      "display": true
+    },
+    "project_x_reference_9229_166": {
+      "display": true
+    },
+    "project_x_reference_9229_167": {
+      "display": true
+    },
+    "project_x_reference_9229_168": {
+      "display": true
+    },
+    "project_x_reference_9229_169": {
+      "display": true
+    },
+    "project_x_reference_9229_170": {
+      "display": true
+    },
+    "project_x_reference_9229_171": {
+      "display": true
+    },
+    "project_x_reference_9229_172": {
+      "display": true
+    },
+    "project_x_reference_9229_173": {
+      "display": true
+    },
+    "project_x_reference_9229_174": {
+      "display": true
+    },
+    "project_x_reference_9229_175": {
+      "display": true
+    },
+    "project_x_reference_9229_176": {
+      "display": true
+    },
+    "project_x_reference_9229_177": {
+      "display": true
+    },
+    "project_x_reference_9229_178": {
+      "display": true
+    },
+    "project_x_reference_9229_179": {
+      "display": true
+    },
+    "project_x_reference_9229_180": {
+      "display": true
+    },
+    "project_x_reference_9229_181": {
+      "display": true
+    },
+    "project_x_reference_9229_182": {
+      "display": true
+    },
+    "project_x_reference_9229_183": {
+      "display": true
+    },
+    "project_x_reference_9229_184": {
+      "display": true
+    },
+    "project_x_reference_9229_185": {
+      "display": true
+    },
+    "project_x_reference_9229_186": {
+      "display": true
+    },
+    "project_x_reference_9229_187": {
+      "display": true
+    },
+    "project_x_reference_9229_188": {
+      "display": true
+    },
+    "project_x_reference_9229_189": {
+      "display": true
+    },
+    "project_x_reference_9229_190": {
+      "display": true
+    },
+    "project_x_reference_9229_191": {
+      "display": true
+    },
+    "project_x_reference_9229_192": {
+      "display": true
+    },
+    "project_x_reference_9229_193": {
+      "display": true
+    },
+    "project_x_reference_9229_194": {
+      "display": true
+    },
+    "project_x_reference_9229_195": {
+      "display": true
+    },
+    "project_x_reference_9229_196": {
+      "display": true
+    },
+    "project_x_reference_9229_197": {
+      "display": true
+    },
+    "project_x_reference_9229_198": {
+      "display": true
+    },
+    "project_x_reference_9229_199": {
+      "display": true
+    },
+    "project_x_reference_9229_200": {
+      "display": true
+    },
+    "project_x_reference_9229_201": {
+      "display": true
+    },
+    "project_x_reference_9229_202": {
+      "display": true
+    },
+    "project_x_reference_9229_203": {
+      "display": true
+    },
+    "project_x_reference_9229_204": {
+      "display": true
+    },
+    "project_x_reference_9229_205": {
+      "display": true
+    },
+    "project_x_reference_9229_206": {
+      "display": true
+    },
+    "project_x_reference_9229_207": {
+      "display": true
+    },
+    "project_x_reference_9229_208": {
+      "display": true
+    },
+    "project_x_reference_9229_209": {
+      "display": true
+    },
+    "project_x_reference_9229_210": {
+      "display": true
+    },
+    "project_x_reference_9229_211": {
+      "display": true
+    },
+    "project_x_reference_9229_212": {
+      "display": true
+    },
+    "Louisiana_2015_1m_7263": {
+      "display": true
+    },
+    "Texas_2016_1m_9261": {
+      "display": true
+    }
+  }
+}

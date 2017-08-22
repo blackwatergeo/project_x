@@ -1,0 +1,35 @@
+{
+  "splash": {
+    "splashContent": "<div> </div>\n\t<div align=\"center\"><div style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-size: 12px; color: rgb(131, 131, 131); font-family: Verdana, Arial, sans-serif; background-color: rgb(255, 255, 255);\"><span style=\"font-size: x-large;\">What's New:</span></div><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\"><br style=\"box-sizing: border-box; color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Helvetica, Arial; font-size: large;\" /><font size=\"4\" style=\"color: rgb(192, 192, 192);\">2017/08/22: Updated Web Application to Latest Mapping Framework</font></div><div style=\"box-sizing: border-box; margin: 0px; padding: 0px;\"><font size=\"4\" style=\"color: rgb(192, 192, 192);\">Added Elevation Profile Widget</font></div></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": false,
+    "confirmEverytime": true,
+    "contentVertical": "top",
+    "size": {
+      "mode": "percent",
+      "percent": "50%",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20file%20chosen",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "OK"
+    }
+  }
+}
